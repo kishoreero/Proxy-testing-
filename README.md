@@ -1,2 +1,2 @@
 # Proxy-testing-
-Proxy testing using python request and threading 
+Proxy testing using python requests and threading 
